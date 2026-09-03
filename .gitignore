@@ -1,0 +1,9 @@
+sample.ipynb
+/dataset
+.venv
+/sample_files
+sample.md
+/models
+**__pycache__/
+output
+.idea
